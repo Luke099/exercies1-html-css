@@ -175,7 +175,7 @@ class SortHelper {
 			let pivot = array[right];
 			let partition = this.partitionForQuickSort1(array, left, right, pivot);
 			this.quickSort1(array, left, partition - 1);
-			this.quickSort1(array, partition + 1, right)
+			this.quickSort1(array, partition + 1, right);
 		}
 		console.log(array);
 	}
