@@ -177,7 +177,6 @@ class SortHelper {
 			this.quickSort1(array, left, partition - 1);
 			this.quickSort1(array, partition + 1, right);
 		}
-		console.log(array);
 	}
 
 	allSort(arrayInput) {
