@@ -1,0 +1,34 @@
+{
+	"listFood": [
+		{
+			"id":"id1",
+			"name": "Bánh Tráng Trộn",
+			"img": "img/handmadeFood/banhTrangTron.jpg"
+		},
+		{
+			"id":"id2",
+			"name": "Xoài Lắc",
+			"img": "img/handmadeFood/xoaiLac.jpg"
+		},
+		{
+			"id":"id3",
+			"name": "Bò Tái Chanh",
+			"img": "img/handmadeFood/boTaiChanh.jpg"
+		},
+		{
+			"id":"id4",
+			"name": "Nghêu Hấp Thái",
+			"img": "img/handmadeFood/ngheuHapThai.jpg"
+		},
+		{
+			"id":"id5",
+			"name": "Chả Tôm",
+			"img": "img/handmadeFood/chaTom.jpg"
+		},
+		{
+			"id":"id6",
+			"name": "Cá Sốt Chua Ngọt",
+			"img": "img/handmadeFood/caSotChuaNgot.jpg"
+		}
+	]
+}
