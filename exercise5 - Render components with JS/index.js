@@ -11,15 +11,16 @@ function loadData(renderAllElement) {
 	};
 	xobj.send(null);
 }
-
 document.addEventListener('DOMContentLoaded', function () {
 	loadData(function (data) {
 		showAllData(data);
 		handelShowDetail(data);
-		backToList();
+		document.getElementById('backToList').addEventListener("click", function (e) {
+			showAllData(data);
+			handelShowDetail(data);
+		}, false);
 	})
 });
-
 showAllData = (data) => {
 	let content = document.getElementById('listFood');
 	let elements = '';
