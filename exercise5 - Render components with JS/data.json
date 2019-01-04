@@ -3,32 +3,86 @@
 		{
 			"id":"id1",
 			"name": "Bánh Tráng Trộn",
-			"img": "img/handmadeFood/banhTrangTron.jpg"
+			"img": "img/handmadeFood/banhTrangTron.jpg",
+			"duration":{
+				"prepareTime": "15 phút",
+				"ProcessingTime": "30 phút",
+				"ration": "4 người ăn"
+			},
+			"rating":5,
+			"material": ["Nguyên liệu bánh tráng trộn 1","Nguyên liệu bánh tráng trộn 2","Nguyên liệu bánh tráng trộn 3","Nguyên liệu bánh tráng trộn 4"],
+			"process": ["Bánh tráng trộn bước 1","Bánh tráng trộn bước 2","Bánh tráng trộn bước 3","Bánh tráng trộn bước 4","Bánh tráng trộn bước 5","Bánh tráng trộn bước 6","Bánh tráng trộn bước 7","Bánh tráng trộn bước 8"],
+			"date": "Ngày 20 Tháng 12 Năm 2018"
 		},
 		{
 			"id":"id2",
 			"name": "Xoài Lắc",
-			"img": "img/handmadeFood/xoaiLac.jpg"
+			"img": "img/handmadeFood/xoaiLac.jpg",
+			"rating":4,
+			"duration":{
+				"prepareTime": "16 phút",
+				"ProcessingTime": "17 phút",
+				"ration": "8 người ăn"
+			},
+			"material": ["Nguyên liệu xoài lắc 1","Nguyên liệu xoài lắc 2","Nguyên liệu xoài lắc 3","Nguyên liệu xoài lắc 4","Nguyên liệu xoài lắc 5"],
+			"process": ["Xoài lắc bước 2","Xoài lắc bước 3","Xoài lắc bước 4","Xoài lắc bước 5","Xoài lắc bước 6","Xoài lắc bước 7","Xoài lắc bước 8"],
+			"date": "Ngày 21 Tháng 12 Năm 2018"
 		},
 		{
 			"id":"id3",
 			"name": "Bò Tái Chanh",
-			"img": "img/handmadeFood/boTaiChanh.jpg"
+			"img": "img/handmadeFood/boTaiChanh.jpg",
+			"rating":3,
+			"duration":{
+				"prepareTime": "20 phút",
+				"ProcessingTime": "40 phút",
+				"ration": "7 người ăn"
+			},
+			"material": ["Nguyên liệu Bò Tái Chanh 1","Nguyên liệu Bò Tái Chanh 2","Nguyên liệu Bò Tái Chanh 3","Nguyên liệu Bò Tái Chanh 4", "Nguyên liệu Bò Tái Chanh 5"],
+			"process": ["Bò Tái Chanh Bước 1","Bò Tái Chanh Bước 2","Bò Tái Chanh Bước 3","Bò Tái Chanh Bước 4","Bò Tái Chanh Bước 5","Bò Tái Chanh Bước 6","Bò Tái Chanh Bước 7","Bò Tái Chanh Bước 8","Bò Tái Chanh Bước 9"],
+			"date": "Ngày 22 Tháng 12 Năm 2018"
 		},
 		{
 			"id":"id4",
 			"name": "Nghêu Hấp Thái",
-			"img": "img/handmadeFood/ngheuHapThai.jpg"
+			"img": "img/handmadeFood/ngheuHapThai.jpg",
+			"rating":4,
+			"duration":{
+				"prepareTime": "10 phút",
+				"ProcessingTime": "25 phút",
+				"ration": "5 người ăn"
+			},
+			"material": ["Nguyên liệu Nghêu Hấp Thái 1","Nguyên liệu Nghêu Hấp Thái 2","Nguyên liệu Nghêu Hấp Thái 3","Nguyên liệu Nghêu Hấp Thái 4","Nguyên liệu Nghêu Hấp Thái 5","Nguyên liệu Nghêu Hấp Thái 6"],
+			"process": ["Nghêu Hấp Thái Bước 1","Nghêu Hấp Thái Bước 2","Nghêu Hấp Thái Bước 3","Nghêu Hấp Thái Bước 4","Nghêu Hấp Thái Bước 5","Nghêu Hấp Thái Bước 6","Nghêu Hấp Thái Bước 7"],
+			"date": "Ngày 23 Tháng 12 Năm 2018"
 		},
 		{
 			"id":"id5",
 			"name": "Chả Tôm",
-			"img": "img/handmadeFood/chaTom.jpg"
+			"img": "img/handmadeFood/chaTom.jpg",
+			"rating":5,
+			"duration":{
+				"prepareTime": "30 phút",
+				"ProcessingTime": "45 phút",
+				"ration": "5 người ăn"
+			},
+			"material": ["Nguyên liệu Chả Tôm 1","Nguyên liệu Chả Tôm 2","Nguyên liệu Chả Tôm 3","Nguyên liệu Chả Tôm 4"],
+			"process": ["Chả Tôm Bước 1","Chả Tôm Bước 2","Chả Tôm Bước 3","Chả Tôm Bước 4","Chả Tôm Bước 5","Chả Tôm Bước 6","Chả Tôm Bước 7"],
+			"date": "Ngày 24 Tháng 12 Năm 2018"
 		},
 		{
 			"id":"id6",
 			"name": "Cá Sốt Chua Ngọt",
-			"img": "img/handmadeFood/caSotChuaNgot.jpg"
+			"img": "img/handmadeFood/caSotChuaNgot.jpg",
+			"rating":5,
+			"duration":{
+				"prepareTime": "15 phút",
+				"ProcessingTime": "30 phút",
+				"ration": "4 người ăn"
+			},
+			"material": ["Nguyên liệu Cá Sốt Chua Ngọt 1","Nguyên liệu Cá Sốt Chua Ngọt 2","Nguyên liệu Cá Sốt Chua Ngọt 3","Nguyên liệu Cá Sốt Chua Ngọt 4"],
+			"process": ["Cá Sốt Chua Ngọt Bước 1","Cá Sốt Chua Ngọt Bước 2","Cá Sốt Chua Ngọt Bước 3","Cá Sốt Chua Ngọt Bước 4","Cá Sốt Chua Ngọt Bước 5","Cá Sốt Chua Ngọt Bước 6","Cá Sốt Chua Ngọt Bước 7"],
+			"date": "Ngày 25 Tháng 12 Năm 2018"
 		}
 	]
 }
